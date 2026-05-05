@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/alexanderadamovic/leetcodesol/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexanderadamovic/leetcodesol/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/alexanderadamovic/leetcodesol/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
