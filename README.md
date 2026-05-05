@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alexanderadamovic/leetcodesol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/alexanderadamovic/leetcodesol/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/alexanderadamovic/leetcodesol/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alexanderadamovic/leetcodesol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/alexanderadamovic/leetcodesol/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/alexanderadamovic/leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alexanderadamovic/leetcodesol/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
