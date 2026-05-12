@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/alexanderadamovic/leetcodesol/tree/master/1108-defanging-an-ip-address) |
 | [1324-print-words-vertically](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1324-print-words-vertically) |
+| [1678-goal-parser-interpretation](https://github.com/alexanderadamovic/leetcodesol/tree/master/1678-goal-parser-interpretation) |
 ## Simulation
 |  |
 | ------- |
