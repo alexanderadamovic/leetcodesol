@@ -84,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alexanderadamovic/leetcodesol/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0489-robot-room-cleaner](https://github.com/alexanderadamovic/leetcodesol/tree/master/0489-robot-room-cleaner) |
+## Interactive
+|  |
+| ------- |
+| [0489-robot-room-cleaner](https://github.com/alexanderadamovic/leetcodesol/tree/master/0489-robot-room-cleaner) |
 <!---LeetCode Topics End-->
