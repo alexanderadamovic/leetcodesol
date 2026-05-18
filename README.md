@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/alexanderadamovic/leetcodesol/tree/master/0217-contains-duplicate) |
 | [0759-employee-free-time](https://github.com/alexanderadamovic/leetcodesol/tree/master/0759-employee-free-time) |
 | [1324-print-words-vertically](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1324-print-words-vertically) |
+| [1345-jump-game-iv](https://github.com/alexanderadamovic/leetcodesol/tree/master/1345-jump-game-iv) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/alexanderadamovic/leetcodesol/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexanderadamovic/leetcodesol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/alexanderadamovic/leetcodesol/tree/master/0217-contains-duplicate) |
+| [1345-jump-game-iv](https://github.com/alexanderadamovic/leetcodesol/tree/master/1345-jump-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/alexanderadamovic/leetcodesol/tree/master/0010-regular-expression-matching) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/alexanderadamovic/leetcodesol/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
