@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/alexanderadamovic/leetcodesol/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/alexanderadamovic/leetcodesol/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0420-strong-password-checker](https://github.com/alexanderadamovic/leetcodesol/tree/master/0420-strong-password-checker) |
 | [0709-to-lower-case](https://github.com/alexanderadamovic/leetcodesol/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/alexanderadamovic/leetcodesol/tree/master/1108-defanging-an-ip-address) |
 | [1324-print-words-vertically](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1324-print-words-vertically) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/alexanderadamovic/leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0420-strong-password-checker](https://github.com/alexanderadamovic/leetcodesol/tree/master/0420-strong-password-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0420-strong-password-checker](https://github.com/alexanderadamovic/leetcodesol/tree/master/0420-strong-password-checker) |
 | [0759-employee-free-time](https://github.com/alexanderadamovic/leetcodesol/tree/master/0759-employee-free-time) |
 ## Binary Search
 |  |
