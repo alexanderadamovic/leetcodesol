@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/alexanderadamovic/leetcodesol/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2540-minimum-common-value](https://github.com/alexanderadamovic/leetcodesol/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/alexanderadamovic/leetcodesol/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/alexanderadamovic/leetcodesol/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/alexanderadamovic/leetcodesol/tree/master/1108-defanging-an-ip-address) |
 | [1324-print-words-vertically](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1324-print-words-vertically) |
 | [1678-goal-parser-interpretation](https://github.com/alexanderadamovic/leetcodesol/tree/master/1678-goal-parser-interpretation) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/alexanderadamovic/leetcodesol/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/alexanderadamovic/leetcodesol/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/alexanderadamovic/leetcodesol/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/alexanderadamovic/leetcodesol/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/alexanderadamovic/leetcodesol/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/alexanderadamovic/leetcodesol/tree/master/1345-jump-game-iv) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/alexanderadamovic/leetcodesol/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
