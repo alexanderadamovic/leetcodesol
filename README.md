@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/alexanderadamovic/leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/alexanderadamovic/leetcodesol/tree/master/0217-contains-duplicate) |
 | [0759-employee-free-time](https://github.com/alexanderadamovic/leetcodesol/tree/master/0759-employee-free-time) |
+| [1306-jump-game-iii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1306-jump-game-iii) |
 | [1324-print-words-vertically](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1324-print-words-vertically) |
 | [1345-jump-game-iv](https://github.com/alexanderadamovic/leetcodesol/tree/master/1345-jump-game-iv) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/alexanderadamovic/leetcodesol/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
@@ -123,9 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/alexanderadamovic/leetcodesol/tree/master/1345-jump-game-iv) |
 ## Trie
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/alexanderadamovic/leetcodesol/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
