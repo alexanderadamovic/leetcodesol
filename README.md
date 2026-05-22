@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/alexanderadamovic/leetcodesol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/alexanderadamovic/leetcodesol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexanderadamovic/leetcodesol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/alexanderadamovic/leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/alexanderadamovic/leetcodesol/tree/master/0217-contains-duplicate) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alexanderadamovic/leetcodesol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/alexanderadamovic/leetcodesol/tree/master/0033-search-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/alexanderadamovic/leetcodesol/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
