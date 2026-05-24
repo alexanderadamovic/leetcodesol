@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-employee-free-time](https://github.com/alexanderadamovic/leetcodesol/tree/master/0759-employee-free-time) |
 | [1306-jump-game-iii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1306-jump-game-iii) |
 | [1324-print-words-vertically](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1324-print-words-vertically) |
+| [1340-jump-game-v](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/alexanderadamovic/leetcodesol/tree/master/1345-jump-game-iv) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/alexanderadamovic/leetcodesol/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2540-minimum-common-value](https://github.com/alexanderadamovic/leetcodesol/tree/master/2540-minimum-common-value) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/alexanderadamovic/leetcodesol/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexanderadamovic/leetcodesol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/alexanderadamovic/leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1340-jump-game-v](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1340-jump-game-v) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/alexanderadamovic/leetcodesol/tree/master/0217-contains-duplicate) |
 | [0759-employee-free-time](https://github.com/alexanderadamovic/leetcodesol/tree/master/0759-employee-free-time) |
+| [1340-jump-game-v](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1340-jump-game-v) |
 ## Greedy
 |  |
 | ------- |
