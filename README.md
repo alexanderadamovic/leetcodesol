@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/alexanderadamovic/leetcodesol/tree/master/1108-defanging-an-ip-address) |
 | [1324-print-words-vertically](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1324-print-words-vertically) |
 | [1678-goal-parser-interpretation](https://github.com/alexanderadamovic/leetcodesol/tree/master/1678-goal-parser-interpretation) |
+| [1871-jump-game-vii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/alexanderadamovic/leetcodesol/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexanderadamovic/leetcodesol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/alexanderadamovic/leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1340-jump-game-v](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1871-jump-game-vii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexanderadamovic/leetcodesol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1871-jump-game-vii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1306-jump-game-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
