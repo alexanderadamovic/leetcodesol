@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/alexanderadamovic/leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/alexanderadamovic/leetcodesol/tree/master/0217-contains-duplicate) |
 | [0759-employee-free-time](https://github.com/alexanderadamovic/leetcodesol/tree/master/0759-employee-free-time) |
+| [1064-fixed-point](https://github.com/alexanderadamovic/leetcodesol/tree/master/1064-fixed-point) |
 | [1306-jump-game-iii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1306-jump-game-iii) |
 | [1324-print-words-vertically](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1324-print-words-vertically) |
 | [1340-jump-game-v](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1340-jump-game-v) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alexanderadamovic/leetcodesol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/alexanderadamovic/leetcodesol/tree/master/0033-search-in-rotated-sorted-array) |
+| [1064-fixed-point](https://github.com/alexanderadamovic/leetcodesol/tree/master/1064-fixed-point) |
 | [2540-minimum-common-value](https://github.com/alexanderadamovic/leetcodesol/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
