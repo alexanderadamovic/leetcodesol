@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/alexanderadamovic/leetcodesol/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/alexanderadamovic/leetcodesol/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/alexanderadamovic/leetcodesol/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/alexanderadamovic/leetcodesol/tree/master/1678-goal-parser-interpretation) |
 | [1871-jump-game-vii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/alexanderadamovic/leetcodesol/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/alexanderadamovic/leetcodesol/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/alexanderadamovic/leetcodesol/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Depth-First Search
 |  |
 | ------- |
