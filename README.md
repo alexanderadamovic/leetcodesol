@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/alexanderadamovic/leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/alexanderadamovic/leetcodesol/tree/master/0217-contains-duplicate) |
 | [0396-rotate-function](https://github.com/alexanderadamovic/leetcodesol/tree/master/0396-rotate-function) |
+| [0723-candy-crush](https://github.com/alexanderadamovic/leetcodesol/tree/master/0723-candy-crush) |
 | [0759-employee-free-time](https://github.com/alexanderadamovic/leetcodesol/tree/master/0759-employee-free-time) |
 | [1064-fixed-point](https://github.com/alexanderadamovic/leetcodesol/tree/master/1064-fixed-point) |
 | [1306-jump-game-iii](https://github.com/alexanderadamovic/leetcodesol/tree/master/1306-jump-game-iii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0723-candy-crush](https://github.com/alexanderadamovic/leetcodesol/tree/master/0723-candy-crush) |
 | [1324-print-words-vertically](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1324-print-words-vertically) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/alexanderadamovic/leetcodesol/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 ## Math
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/alexanderadamovic/leetcodesol/tree/master/0151-reverse-words-in-a-string) |
+| [0723-candy-crush](https://github.com/alexanderadamovic/leetcodesol/tree/master/0723-candy-crush) |
 | [2540-minimum-common-value](https://github.com/alexanderadamovic/leetcodesol/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0723-candy-crush](https://github.com/alexanderadamovic/leetcodesol/tree/master/0723-candy-crush) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/alexanderadamovic/leetcodesol/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 ## Recursion
 |  |
