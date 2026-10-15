@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1324-print-words-vertically) |
 | [1340-jump-game-v](https://github.com/alexanderadamovic/https-github.com-alexanderadamovic-leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/alexanderadamovic/leetcodesol/tree/master/1345-jump-game-iv) |
+| [1672-richest-customer-wealth](https://github.com/alexanderadamovic/leetcodesol/tree/master/1672-richest-customer-wealth) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/alexanderadamovic/leetcodesol/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2126-destroying-asteroids](https://github.com/alexanderadamovic/leetcodesol/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/alexanderadamovic/leetcodesol/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0723-candy-crush](https://github.com/alexanderadamovic/leetcodesol/tree/master/0723-candy-crush) |
+| [1672-richest-customer-wealth](https://github.com/alexanderadamovic/leetcodesol/tree/master/1672-richest-customer-wealth) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/alexanderadamovic/leetcodesol/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 ## Recursion
 |  |
